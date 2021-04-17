@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE group SYSTEM "group.dtd">
+<group>
+    <student firstname="Andrey" lastname="Andreev" groupnumber="IT-82">
+        <subject title="KPP" mark="5"/>
+        <subject title="Graphics" mark="4"/>
+        <subject title="BD" mark="5"/>
+        <subject title="TPR" mark="4"/>
+        <average>5</average>
+    </student>
+    <student firstname="Viktor" lastname="Viter" groupnumber="IT-82">
+        <subject title="KPP" mark="5"/>
+        <subject title="Graphics" mark="3"/>
+        <subject title="BD" mark="5"/>
+        <average>4.32</average>
+    </student>
+    <student firstname="Anton" lastname="Antonov" groupnumber="IT-82">
+        <subject title="KPP" mark="5"/>
+        <subject title="Graphics" mark="5"/>
+        <subject title="BD" mark="5"/>
+        <subject title="TPR" mark="5"/>
+        <average>5</average>
+    </student>
+    <student firstname="Sergey" lastname="Sergeev" groupnumber="IT-82">
+        <subject title="KPP" mark="3"/>
+        <subject title="Graphics" mark="4"/>
+        <subject title="BD" mark="3"/>
+        <subject title="TPR" mark="4"/>
+        <average>3.5</average>
+    </student>
+    <student firstname="Oleksiy" lastname="Kolomiets" groupnumber="IT-82">
+        <subject title="KPP" mark="5"/>
+        <subject title="Graphics" mark="3"/>
+        <subject title="BD" mark="5"/>
+        <subject title="TPR" mark="3"/>
+        <average>4</average>
+    </student>
+</group>
