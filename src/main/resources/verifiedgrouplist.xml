@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<group>
+    <student firstname="Andrey" groupnumber="IT-82" lastname="Andreev">
+        <subject mark="5" title="KPP"/>
+        <subject mark="4" title="Graphics"/>
+        <subject mark="5" title="BD"/>
+        <subject mark="4" title="TPR"/>
+        <average>4.5</average>
+    </student>
+    <student firstname="Viktor" groupnumber="IT-82" lastname="Viter">
+        <subject mark="5" title="KPP"/>
+        <subject mark="3" title="Graphics"/>
+        <subject mark="5" title="BD"/>
+        <average>4.32</average>
+    </student>
+    <student firstname="Anton" groupnumber="IT-82" lastname="Antonov">
+        <subject mark="5" title="KPP"/>
+        <subject mark="5" title="Graphics"/>
+        <subject mark="5" title="BD"/>
+        <subject mark="5" title="TPR"/>
+        <average>5.0</average>
+    </student>
+    <student firstname="Sergey" groupnumber="IT-82" lastname="Sergeev">
+        <subject mark="3" title="KPP"/>
+        <subject mark="4" title="Graphics"/>
+        <subject mark="3" title="BD"/>
+        <subject mark="4" title="TPR"/>
+        <average>3.5</average>
+    </student>
+    <student firstname="Oleksiy" groupnumber="IT-82" lastname="Kolomiets">
+        <subject mark="5" title="KPP"/>
+        <subject mark="3" title="Graphics"/>
+        <subject mark="5" title="BD"/>
+        <subject mark="3" title="TPR"/>
+        <average>4.0</average>
+    </student>
+</group>
